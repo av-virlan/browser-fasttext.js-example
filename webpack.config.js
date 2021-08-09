@@ -18,7 +18,6 @@ module.exports = {
     new NodePolyfillPlugin(),
     new CopyWebpackPlugin({
       patterns: [
-        { from: 'static' },
         { from: 'node_modules/browser-fasttext.js/fasttext_wasm.wasm'}
       ]
     })

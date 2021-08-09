@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-	"serve": "http-server dist"
+	"serve": "http-server"
   },
   "author": "",
   "license": "MIT",

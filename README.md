@@ -1,7 +1,7 @@
 # browser-fasttext.js-example
 Sample project with webpack to showcase how to use [browser-fasttext.js](https://github.com/av-virlan/browser-fasttext.js)
 
-See it in action [here]()
+See it in action [here](https://av-virlan.github.io/browser-fasttext.js-example/)
 
 # Building and running
 
